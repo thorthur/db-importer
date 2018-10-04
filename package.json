@@ -29,6 +29,7 @@
     "jhipster-core": "^1.2.9",
     "joi": "^10.6.0",
     "lodash": "^4.17.4",
+    "mssql": "^4.1.0",
     "mysql": "^2.13.0"
   },
   "devDependencies": {
